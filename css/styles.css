@@ -1,0 +1,65 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #ffff;
+    padding: 20px;
+    margin: 20px;
+}
+main {
+    background-color: #ffff;
+    border-radius: 1rem;
+    padding: 10px;
+    margin: 50px;
+    box-shadow: #007bff;
+    
+}
+header{
+    padding-right: 50px;
+    color: #0056b3;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h2 {
+    color: #0f151b;
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    color: #722867;
+    font-size: large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font: bold;
+}
+.square {
+    border-radius: 10px;
+    object-fit: cover;
+    border: 3px #252627;
+}
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 15,30;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056b3;
+}
+input {
+    border: 1px solid #ced4da;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 10px;
+}
+.weathrdata{
+    background-color: aquamarine;
+    padding: 50px;
+}
+#defineword{
+    background-color: burlywood;
+    padding: 50px;
+}
+#profile{
+    background-color: lightblue;
+    padding: 50px;
+}
