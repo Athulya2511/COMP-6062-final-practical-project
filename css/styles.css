@@ -63,3 +63,9 @@ input {
     background-color: lightblue;
     padding: 50px;
 }
+@media (max-width: 650px){
+    body{background-color : #3ae43a ;
+        font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+    }
+}
